@@ -10,7 +10,7 @@ public class MessageRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("Application Testing...");
-		
+		System.out.println("Applying some modifications");
 	}
 
 }
